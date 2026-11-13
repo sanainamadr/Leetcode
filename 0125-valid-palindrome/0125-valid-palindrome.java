@@ -6,8 +6,9 @@ class Solution {
         
        while(left<right){
 
-       if(!Character.isLetterOrDigit(s.charAt(left))){
-        left++;
+       if(!Character.isLetterOrDigit(s.charAt(left))){ // if the char is        
+        left++;                                   //something else than letter or 
+                                                //number -->True -->!True = False
        }
        else if(!Character.isLetterOrDigit(s.charAt(right))){
         right--;
