@@ -49,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/sanainamadr/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/sanainamadr/Leetcode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
