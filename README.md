@@ -53,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/sanainamadr/Leetcode/tree/master/0007-reverse-integer) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/sanainamadr/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
