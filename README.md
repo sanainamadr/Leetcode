@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sanainamadr/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanainamadr/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0560-subarray-sum-equals-k](https://github.com/sanainamadr/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/sanainamadr/Leetcode/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/sanainamadr/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sanainamadr/Leetcode/tree/master/0011-container-with-most-water) |
+| [0561-array-partition](https://github.com/sanainamadr/Leetcode/tree/master/0561-array-partition) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/sanainamadr/Leetcode/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/sanainamadr/Leetcode/tree/master/0176-second-highest-salary) |
+## Sorting
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/sanainamadr/Leetcode/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/sanainamadr/Leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
